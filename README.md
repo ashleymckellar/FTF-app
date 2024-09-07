@@ -44,6 +44,7 @@ Project Structure
 Getting Started
 
 **Prerequisites**
+
 Before you start, make sure you have the following installed:
 
 Node.js (version 14+)
