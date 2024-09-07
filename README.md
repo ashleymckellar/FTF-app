@@ -102,14 +102,15 @@ Before you start, make sure you have the following installed:
 
 1.  **Clone the repository**:
 
-    `git clone https://github.com/ashleymckellar/FTF-app.git
-    cd ftf-app`
+    `git clone https://github.com/ashleymckellar/FTF-app.git`
+    
+    `cd ftf-app`
 
-2.  **Install dependencies for the backend**:
+3.  **Install dependencies for the backend**:
 
     `npm install`
 
-3.  **Install dependencies for the frontend**:
+4.  **Install dependencies for the frontend**:
 
   `cd client`
 
