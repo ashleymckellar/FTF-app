@@ -43,6 +43,8 @@ Project Structure
   README.md               # Project documentation
 Getting Started
 
+
+
 **Prerequisites**
 
 Before you start, make sure you have the following installed:
@@ -50,6 +52,7 @@ Before you start, make sure you have the following installed:
 Node.js (version 14+)
 npm or yarn
 MongoDB (if using a MongoDB database)
+
 
 
 **Installation**
@@ -97,8 +100,10 @@ The app uses JWT for email-based authentication and Google OAuth for Google-base
 
 JWT Authentication: After logging in with email and password, a JSON Web Token (JWT) is issued. This token must be sent with subsequent API requests in the Authorization header.
 Google OAuth: Users can authenticate via their Google accounts using OAuth 2.0, enabling a secure sign-in flow.
-Contributing
 
+
+
+**Contributing**
 **Contributions are welcome! To contribute:**
 
 Fork this repository.
