@@ -14,12 +14,18 @@ Social Media (Planned): Share posts, photos, and comments with other attendees.
 **Tech Stack**
 
 Frontend: Vite, React, TailwindCSS
+
 Backend: Node.js, Express
+
 Authentication: JWT for email login, Google OAuth for social login
+
 Database: To be decided - either MongoDB or Firebase Realtime Database
+
 Push Notifications: (To be added - likely using Firebase)
+
 Social Media Component: (To be developed)
-Project Structure
+
+**Project Structure**
 
 /forever-twilight-app
   /client                 # Vite + React frontend
