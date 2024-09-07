@@ -26,6 +26,7 @@ Push Notifications: (To be added - likely using Firebase)
 Social Media Component: (To be developed)
 
 **Getting Started**
+
 **Prerequisites**
 
 Before you start, make sure you have the following installed:
@@ -37,6 +38,7 @@ MongoDB (if using a MongoDB database)
 
 
 **Installation**
+
 **Clone the repository:**
 git clone https://github.com/ashleymckellar/FTF-app.git
 
@@ -85,6 +87,7 @@ Google OAuth: Users can authenticate via their Google accounts using OAuth 2.0, 
 
 
 **Contributing**
+
 **Contributions are welcome! To contribute:**
 
 Fork this repository.
