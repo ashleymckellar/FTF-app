@@ -68,41 +68,34 @@ MongoDB (if using a MongoDB database)
 
 
 **Installation**
-Clone the repository:
-bash
-Copy code
+**Clone the repository:**
 git clone https://github.com/ashleymckellar/FTF-app.git
-cd forever-twilight-in-forks
-Install dependencies for the backend:
-bash
-Copy code
+
+**Install dependencies for the backend:**
 npm install
-Install dependencies for the frontend:
-bash
-Copy code
+
+**Install dependencies for the frontend:**
 cd client
 npm install
-Set up environment variables:
+
+**Set up environment variables:**
 Create a .env file in the root directory with the following content (and make sure your .env is added to your gitignore in the root directory):
-makefile
-Copy code
 PORT=8201
 SECRET=your_jwt_secret
 GOOGLE_CLIENT_ID=your_google_client_id
 GOOGLE_CLIENT_SECRET=your_google_client_secret
 MONGO_URI=your_mongo_db_connection_string
-Running the App
-Start the backend server:
-bash
-Copy code
+
+**Running the App**
+**Start the backend server:**
 nodemon server.js
-Start the frontend:
-bash
-Copy code
+
+**Start the frontend:**
 cd client
 npm run dev
 Open your browser and navigate to http://localhost:5173 to view the app (Vite’s default dev server port).
-API Documentation
+
+**API Documentation**
 
 **Authentication Endpoints**
 POST /api/auth/login: User login with email and password (JWT).
