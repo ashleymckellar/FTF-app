@@ -2,7 +2,7 @@
 
 A web app for the Forever Twilight in Forks festival in Forks, Washington, providing users with event schedules, personalized itineraries, interactive maps, and festival store access. The app will eventually offer social media features for festival-goers to share their experiences.  Once this app is completed, it will be refactored to be a mobile app built with React Native.
 
-Table of Contents
+**Table of Contents**
 
 Features
 Tech Stack
@@ -24,7 +24,8 @@ Interactive Map: Explore festival venues with a live, interactive map.
 Festival Store: Access and purchase festival merchandise.
 Push Notifications: Get live updates and alerts about the festival.
 Social Media (Planned): Share posts, photos, and comments with other attendees.
-Tech Stack
+
+**Tech Stack**
 
 Frontend: Vite, React, TailwindCSS
 Backend: Node.js, Express
@@ -58,7 +59,7 @@ Copy code
   README.md               # Project documentation
 Getting Started
 
-Prerequisites
+**Prerequisites**
 Before you start, make sure you have the following installed:
 
 Node.js (version 14+)
@@ -66,7 +67,7 @@ npm or yarn
 MongoDB (if using a MongoDB database)
 
 
-Installation
+**Installation**
 Clone the repository:
 bash
 Copy code
@@ -103,7 +104,7 @@ npm run dev
 Open your browser and navigate to http://localhost:5173 to view the app (Vite’s default dev server port).
 API Documentation
 
-Authentication Endpoints
+**Authentication Endpoints**
 POST /api/auth/login: User login with email and password (JWT).
 POST /api/auth/google: Login via Google OAuth.
 Event Endpoints
