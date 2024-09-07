@@ -1,4 +1,4 @@
-Forever Twilight in Forks Festival App
+**Forever Twilight in Forks Festival App**
 
 A web app for the Forever Twilight in Forks festival in Forks, Washington, providing users with event schedules, personalized itineraries, interactive maps, and festival store access. The app will eventually offer social media features for festival-goers to share their experiences.  Once this app is completed, it will be refactored to be a mobile app built with React Native.
 
