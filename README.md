@@ -14,8 +14,6 @@ Running the App
 API Documentation
 Authentication
 Contributing
-License
-Features
 
 User Authentication: Log in with email (JWT) or Google OAuth.
 Event Calendar: Browse all festival events and times.
@@ -114,7 +112,7 @@ JWT Authentication: After logging in with email and password, a JSON Web Token (
 Google OAuth: Users can authenticate via their Google accounts using OAuth 2.0, enabling a secure sign-in flow.
 Contributing
 
-Contributions are welcome! To contribute:
+**Contributions are welcome! To contribute:**
 
 Fork this repository.
 Create a new branch for your feature:
