@@ -125,10 +125,7 @@ bash
 Copy code
 git push origin feature/your-feature
 Open a pull request.
-License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-Contact
+**Contact**
 
 For questions or issues, feel free to reach out at ashley.l.mckellar@gmail.com.
