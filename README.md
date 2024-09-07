@@ -25,30 +25,6 @@ Push Notifications: (To be added - likely using Firebase)
 
 Social Media Component: (To be developed)
 
-**Project Structure**
-
-/forever-twilight-app
-  /client                 # Vite + React frontend
-    /src
-      /components         # Reusable UI components
-      /pages              # Application pages/routes
-      /services           # API calls and business logic
-      /styles             # TailwindCSS custom styles
-      /assets             # Images, icons, etc.
-    vite.config.js        # Vite configuration
-    package.json          # Frontend dependencies
-  /backend                # Node.js + Express backend
-    /controllers          # Backend logic for handling API requests
-    /routes               # API routes
-    /models               # Database models
-    /middleware           # JWT and authentication middleware
-    /services             # External services or helper functions
-    server.js             # Entry point for the backend server
-    package.json          # Backend dependencies
-  .env                    # Environment variables (JWT secrets, OAuth keys, etc.)
-  README.md               # Project documentation
-
-  
 **Getting Started**
 **Prerequisites**
 
