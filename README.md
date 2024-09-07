@@ -47,10 +47,9 @@ Social Media Component: (To be developed)
     package.json          # Backend dependencies
   .env                    # Environment variables (JWT secrets, OAuth keys, etc.)
   README.md               # Project documentation
-Getting Started
 
-
-
+  
+**Getting Started**
 **Prerequisites**
 
 Before you start, make sure you have the following installed:
