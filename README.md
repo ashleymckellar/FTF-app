@@ -2,18 +2,6 @@
 
 A web app for the Forever Twilight in Forks festival in Forks, Washington, providing users with event schedules, personalized itineraries, interactive maps, and festival store access. The app will eventually offer social media features for festival-goers to share their experiences.  Once this app is completed, it will be refactored to be a mobile app built with React Native.
 
-**Table of Contents**
-
-Features
-Tech Stack
-Project Structure
-Getting Started
-Prerequisites
-Installation
-Running the App
-API Documentation
-Authentication
-Contributing
 
 User Authentication: Log in with email (JWT) or Google OAuth.
 Event Calendar: Browse all festival events and times.
@@ -33,8 +21,6 @@ Push Notifications: (To be added - likely using Firebase)
 Social Media Component: (To be developed)
 Project Structure
 
-bash
-Copy code
 /forever-twilight-app
   /client                 # Vite + React frontend
     /src
